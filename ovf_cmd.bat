@@ -1,0 +1,1 @@
+ovftool --acceptAllEulas --noSSLVerify --X:useMacNaming=false  -dm=thin --name="kubernetes-node-0" --overwrite -ds="datastore1"  --network="VM Network" "C:\Users\victor.odusanya.INTERSWITCHNG\Desktop\packer-esxi\debian-9-kube-1.17\debian-9-kube-1.17.ova" "vi://automation:Alpha.04%%24@vsphere.local//"
